@@ -16,7 +16,7 @@
 
 <a id="1-about-the-project"></a>
 ## 1. About the Project
-Breast cancer is a prevalent cancer among women worldwide, constituting 25% of all cancer cases. This project aims to leverage machine learning techniques, specifically Support Vector Machines (SVMs), to classify breast tumors as malignant (cancerous) or benign (non-cancerous). The analysis is based on the Breast Cancer Wisconsin (Diagnostic) Dataset obtained from Kaggle.
+Breast cancer is a prevalent cancer among women worldwide, constituting 25% of all cancer cases. This project aims to leverage machine learning techniques, to classify breast tumors as malignant (cancerous) or benign (non-cancerous). The analysis is based on the Breast Cancer Wisconsin (Diagnostic) Dataset obtained.
 
 <a id="2-dataset-description"></a>
 ## 2. Dataset Description
